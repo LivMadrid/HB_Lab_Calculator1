@@ -35,7 +35,7 @@ while True:
         print("Those aren't numbers!")
         continue
 
-    # We have to cast each value we pass to an arithmetic function from a
+    # We have to cast each value we pass to an arithmetic function from
     # a string into a numeric type. If we use float across the board, all
     # results will have decimal points, so let's do that for consistency.
 
